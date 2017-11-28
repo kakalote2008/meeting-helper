@@ -16,7 +16,11 @@ node-json-db:偷懒使用json作为持久化存储，没有使用关系db，导�
 
 frontend：
 
-cnpm install 
+cnpm install
+
+cnpm install uglifyjs-webpack-plugin
+
+cnpm install babel-preset-env 
 
 backend：
 
