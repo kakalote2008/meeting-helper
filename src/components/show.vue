@@ -4,7 +4,7 @@
     </el-table-column>
     <el-table-column prop="name" label="姓名">
     </el-table-column>
-    <el-table-column prop="date" label="日期">
+    <el-table-column prop="date" label="日期" style="width:20%">
     </el-table-column>
     <el-table-column prop="start" label="start">
     </el-table-column>
